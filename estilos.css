@@ -157,3 +157,14 @@ h5 {
     margin-bottom: 30px;
     background-color: rosybrown;
 }
+
+td {
+    border: 1px solid black;
+    height: 30px;
+}
+
+th {
+    background-color: crimson;
+    border: 1px solid black;
+    height: 30px;
+}
