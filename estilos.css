@@ -164,7 +164,7 @@ td {
 }
 
 th {
-    background-color: crimson;
+    background-color: rgb(212, 114, 134);
     border: 1px solid black;
     height: 30px;
 }
